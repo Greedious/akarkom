@@ -1,6 +1,8 @@
 # Akarkom 📈🏠
 
-<img src="assets/akarkom-logo.png" alt="Project Screenshot" width="450">
+<p align="center">
+<img src="assets/akarkom-logo.png" alt="Project Screenshot" width="475">
+</p>
 
 # Description
 
